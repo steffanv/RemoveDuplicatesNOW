@@ -29,6 +29,6 @@ Please refer to the Add-In ribbon.
 
 The removed duplicates can be found in the Deleted Items folder.
 
-The software is provided "as is" and you use it own your own risk. Please refer to the Apache License.
+The software is provided "as is" and you use it on your own risk. Please refer to the Apache License.
 
 
